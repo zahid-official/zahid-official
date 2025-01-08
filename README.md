@@ -17,8 +17,8 @@
   
 	- HTML5
 	- CSS3
-	- Bootstrap
 	- Tailwind
+	- Bootstrap
 	- JavaScript
 	- React JS
 	- React Router
@@ -32,14 +32,14 @@
 
   # Backend skills
 	- API
-	- Firebase
-	- Node.js
-	- Express.js
 	- MongoDB
+	- Node.js
+	- Firebase
+	- Express.js
 	- JSON Web Token
 </div>
 
-#  🧑‍💻  Languages & Tools
+#  Languages & Tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -79,6 +79,10 @@
         <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>NPM
     </td>
+    <td align="center" width="96"> 
+        <img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" width="48" height="48" alt="daisy" />
+      <br>Daisy UI
+    </td>
   </tr>
   <tr>
 	  <td align="center" width="96">
@@ -101,6 +105,10 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
+	  <td align="center" width="96"> 
+        <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="48" height="48" alt="Router" />
+      <br>Router
+    </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="vite" />
       <br>Vite
@@ -119,7 +127,5 @@
     </td>
   </tr>
 </table>
-<br><br>
-
 </div>
 <br/>  
