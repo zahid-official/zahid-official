@@ -11,26 +11,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20Zahid,%20a%20Web%20Application%20Developer.;Passionate%20about%20crafting%20quality%20projects.;Always%20learning%20trending%20technologies.&font=Fira%20Code&center=true&width=600&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<div>
 
-  # Frontend skills
-  
-	- HTML5
-	- CSS3
-	- Tailwind
-	- Bootstrap
-	- JavaScript
-	- React JS
-	- React Router
+<h1 align="left">Hi There👋 I'm Zahidul Islam</h1>
+<p align="left">I am an aspiring Web Developer, passionate about creating user-centric and visually appealing web experiences. Driven by a continuous desire to learn, I specialize in HTML, CSS, JavaScript, React and always aim to deliver clean, responsive, and accessible designs.</p>
 
-  # Backend skills
-	- API
-	- MongoDB
-	- Node.js
-	- Firebase
-	- Express.js
-	- JSON Web Token
-</div>
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Backend<br>🔭 Learning on Programming Hero<br>💬 Ask me about JavaScript, React & NodeJS<br>📫 How to reach me zahid.official8@gmail.com</p>
+
 
 #  Languages & Tools
 <div style="display: flex; align-items: flex-start; align: center">
@@ -120,5 +108,4 @@
     </td>
   </tr>
 </table>
-</div>
-<br/>  
+</div> 
