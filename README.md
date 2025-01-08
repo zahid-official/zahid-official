@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Dedicated%20Web%20Developer%20Focused%20on%20Web%20Applications.;Passionate%20about%20crafting%20quality%20projects.;Always%20learning%20trending%20technologies.&font=Fira%20Code&center=true&width=720&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Dedicated%20Web%20Developer%20Focused%20on%20Web%20Applications.;Passionate%20about%20crafting%20quality%20projects.;Always%20learning%20trending%20technologies.&font=Fira%20Code&center=true&width=720&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
