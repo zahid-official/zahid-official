@@ -23,13 +23,6 @@
 	- React JS
 	- React Router
 
- 
-	- Daisy UI
-	- Ant Design
-	- Material UI
-	- Figma / Pixso
-	- NPM / Yarn / PNPM
-
   # Backend skills
 	- API
 	- MongoDB
