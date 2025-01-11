@@ -71,7 +71,7 @@
     </td>
     <td align="center" width="96"> 
         <img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" width="48" height="48" alt="daisy" />
-      <br>Daisy UI
+      <br>Daisy
     </td>
   </tr>
   <tr>
