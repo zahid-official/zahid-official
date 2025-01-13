@@ -13,7 +13,7 @@
 
 
 <h1 align="left">Hi There👋 I'm Zahidul Islam</h1>
-<p align="left">I am an aspiring Web Developer, passionate about creating user-centric and visually appealing web experiences. Driven by a continuous desire to learn, I work with React.js for building interactive UIs, Node.js for server-side backend development, MongoDB for data storage, and Express.js for creating RESTful APIs. I also use Firebase for secure user authentication, ensuring safe user interactions. Passionate about building efficient, scalable web solutions, I am constantly enhancing my skills in the evolving world of web development.</p>
+<p align="left">I am an aspiring Web Developer, passionate about creating user-centric and visually appealing web experiences. Driven by a continuous desire to learn, I work with React.js for building interactive UIs, Node.js for server-side backend development, MongoDB for data storage, and Express.js for creating RESTful APIs. I also use Firebase for secure user authentication, ensuring safe user interactions. Driven by a strong interest in creating optimized, scalable web applications, I am constantly enhancing my skills in the evolving world of web development.</p>
 
 ###
 
