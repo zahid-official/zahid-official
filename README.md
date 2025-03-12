@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/zahid.official8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="zahid.official8" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zahid8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zahid-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid8" height="30" width="40" /></a>
 <a href="https://x.com/zahid_official8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zahid_official8" height="29" width="40" /></a>
 <a href="https://discordapp.com/users/1251522037080391791" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="https://discordapp.com/users/1251522037080391791" height="24" width="35" /></a>
 </p>
