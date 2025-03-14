@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/top2hightech">
-    <img src="https://media.licdn.com/dms/image/v2/D4E16AQEyZ0CQRj1kTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732460237345?e=1741824000&v=beta&t=s2m-njIHVUJBWPmZ1vi-ukM8JSI8iAz5J97FSkfjpnw" alt="header" /></a>
+    <img src="https://raw.githubusercontent.com/zahid-official/zahid-official/refs/heads/main/Profile%20Banner.jpg" alt="header" /></a>
 </p>
 
 <p align="center">
