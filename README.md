@@ -118,7 +118,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahid-official&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+      <img src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=gotham&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
