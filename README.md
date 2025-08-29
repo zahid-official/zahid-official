@@ -230,12 +230,12 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg"
-        width="48"
+        src="https://i.imgur.com/wWCtfWA.png"
+        width="54"
         height="48"
-        alt="Router"
+        alt="materialui"
       />
-      <br />Router
+      <br />Zod
     </td>
     <td align="center" width="96">
       <img
@@ -248,12 +248,12 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://i.imgur.com/wWCtfWA.png"
-        width="54"
+        src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg"
+        width="48"
         height="48"
-        alt="materialui"
+        alt="Router"
       />
-      <br />Zod
+      <br />React Router
     </td>
   </tr>
 </table>
