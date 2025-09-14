@@ -185,12 +185,12 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=tailwind"
+        src="https://skillicons.dev/icons?i=redis"
         width="48"
         height="48"
         alt="tailwind"
       />
-      <br />Tailwind
+      <br />Redis
     </td>
     <td align="center" width="96">
       <img
