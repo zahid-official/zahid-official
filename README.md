@@ -188,9 +188,18 @@
         src="https://skillicons.dev/icons?i=redis"
         width="48"
         height="48"
-        alt="tailwind"
+        alt="redis"
       />
       <br />Redis
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="48"
+        height="48"
+        alt="tailwind"
+      />
+      <br />Tailwind
     </td>
     <td align="center" width="96">
       <img
@@ -245,15 +254,6 @@
         alt="jwt"
       />
       <br />JWT
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg"
-        width="48"
-        height="48"
-        alt="Router"
-      />
-      <br />React Router
     </td>
   </tr>
 </table>
