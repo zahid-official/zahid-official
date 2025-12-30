@@ -15,22 +15,19 @@
 
 <h1 align="left">Hi There👋 I'm Zahidul Islam</h1>
 <p align="left">
-  I am an aspiring Web Developer, passionate about creating user-centric and
-  visually appealing web experiences. Driven by a continuous desire to learn, I
-  work with React.js for building interactive UIs, Node.js for server-side
-  backend development, MongoDB for data storage, and Express.js for creating
-  RESTful APIs. I also use Firebase for secure user authentication, ensuring
-  safe user interactions. Driven by a strong interest in creating optimized,
-  scalable web applications, I am constantly enhancing my skills in the evolving
-  world of web development.
+  I’m a full stack web developer focused on building modern, scalable and user centric web applications. I work across frontend and backend using React, Next.js, Node.js, Express.js and databases like MongoDB and PostgreSQL.
+  I enjoy designing clean APIs, implementing secure authentication systems and creating performant user experiences. I care about maintainable code, scalability and solving real world problems through practical engineering.
 </p>
 
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2024<br />📚 I'm currently learning Backend<br />🔭
-  Learning on Programming Hero<br />💬 Ask me about JavaScript, React &
-  NodeJS<br />📫 How to reach me zahid.official8@gmail.com
+  ✨ Building modern web applications <br /> 
+  💻 Working across the stack with JavaScript and TypeScript <br />
+  ⚙️ Using React, Next.js, Node.js and Express.js for full stack development <br />
+  🗄️ Managing data with MongoDB, PostgreSQL, Mongoose ODM and Prisma ORM <br /> 
+  💬 Ask me about JavaScript, React and backend architecture <br />
+  📫 Reach me at zahid.official8@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
