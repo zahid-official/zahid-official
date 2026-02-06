@@ -153,10 +153,10 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://mongoosejs.com/docs/images/mongoose.svg"
+        src="https://i.ibb.co.com/gMCWPdJL/mongoose.png"
         width="100%"
         height="100%"
-        alt="jwt"
+        alt="Mongoose"
       />
       <br />Mongoose
     </td>
