@@ -254,20 +254,6 @@
     </td>
   </tr>
 </table>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=gotham&hide_border=true"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=zahid-official&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
