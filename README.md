@@ -236,7 +236,7 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://zod.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.d29d7ce8.png&w=128&q=75"
+        src="https://i.ibb.co.com/35ML4Svc/zod.webp"
         width="54"
         height="48"
         alt="materialui"
