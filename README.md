@@ -127,9 +127,9 @@
     <td align="center" width="96">
       <img
         src="https://skillicons.dev/icons?i=express"
-        alt="JavaScript"
         width="48"
         height="48"
+        alt="express"
       />
       <br />Express
     </td>
@@ -156,7 +156,7 @@
         src="https://i.ibb.co.com/gMCWPdJL/mongoose.png"
         width="100%"
         height="100%"
-        alt="Mongoose"
+        alt="mongoose"
       />
       <br />Mongoose
     </td>
@@ -165,9 +165,9 @@
     <td align="center" width="96">
       <img
         src="https://skillicons.dev/icons?i=postgres"
-        alt="postgres"
         width="48"
         height="48"
+        alt="postgres"
       />
       <br />Postgres
     </td>
@@ -203,7 +203,7 @@
         src="https://i.imgur.com/4TLI18u.png"
         width="48"
         height="48"
-        alt="Figma"
+        alt="shadcn"
       />
       <br />Shadcn
     </td>
@@ -227,12 +227,12 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=github"
+        src="https://i.ibb.co.com/1tgtMZ5s/passport.png"
         width="48"
         height="48"
-        alt="github"
+        alt="passport"
       />
-      <br />Github
+      <br />Passport
     </td>
     <td align="center" width="96">
       <img
